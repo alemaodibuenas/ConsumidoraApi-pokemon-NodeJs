@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+h1{  
+  text-align: center;
+  color: #606060;   
+}
+
+h2{
+  text-align: center;
+  font-weight: bold; 
+  color: #606060; 
+}
+
+li{
+  margin-left: 0PX;
+  font-weight: bold; 
+  color: #606060; 
+}
+
+p{
+  text-align: center;
+  font-size: 15pt;  
+  color: #606060;
+}
+
+#poke-container {
+    margin-left: 20px;
+}
+
+div{
+  box-shadow: 1px 1px 3px rgba(0,0,0,.4);
+}
